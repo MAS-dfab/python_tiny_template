@@ -45,3 +45,4 @@ A few additional things to try:
 1. On Visual Studio Code, press `Ctrl+Shift+P`, `Select linter` and select `flake8`
 1. To auto-format code, `right-click`, `Format document...`
 1. (Windows-only) Change shell: press `Ctrl+Shift+P`, `Select Default Shell` and select `cmd.exe`
+1. Try git integration: commit, pull & push are all easily available from Visual Studio Code.
