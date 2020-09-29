@@ -1,9 +1,12 @@
-import sys
+def example_method(point_x, point_y):
+    """Example of a method's documentation.
 
-a = 1+2
-
-
-
-def example_method(x, y):
-    print(x + y)
+    Parameters
+    ----------
+    point_x : float
+        Description of the first param
+    point_y : float
+        Description of the second param
+    """
+    print(point_x + point_y)
     print('Yay! It works!')  # After you verified this method works, please delete it ;)

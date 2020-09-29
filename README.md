@@ -25,10 +25,14 @@ Create a environment using `Anaconda prompt`:
 
     cd FOLDER_OF_REPO
     conda env create -n NAME_OR_TITLE -f environment.yml
+
+Activate the environment:
+
     conda activate NAME_OR_TITLE
+    python -m compas_rhino.install
 
 Open folder in Visual Studio Code:
 
     code .
 
-Start coding on `example.py`!
+Start coding on `example.py` and explore the `example_grasshopper.ghx` file!
