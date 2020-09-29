@@ -35,7 +35,11 @@ Open folder in Visual Studio Code:
 
     code .
 
-You're ready! 🚀
+Select your environment from the lower left area in Visual Studio Code.
+
+
+🚀 You're ready! 
+
 Start coding on `example.py` and explore the `example_grasshopper.ghx` file.
 
 ## Additional ideas
