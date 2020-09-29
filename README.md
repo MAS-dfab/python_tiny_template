@@ -1,7 +1,7 @@
 # How to use this template
 
 1. Install required tools (see [here](#requirements))
-2. Click `Use this template` on Github
+2. Click `Use this template` on Github (you need to be logged in to Github)
 3. Clone your new and shiny repo (eg. using `Github Desktop`)
 4. Prepare your environment to [get started](#getting-started)
 5. Delete this section of this document!
