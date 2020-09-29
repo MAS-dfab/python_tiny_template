@@ -9,4 +9,6 @@ def example_method(point_x, point_y):
         Description of the second param
     """
     print(point_x + point_y)
-    print('Yay! It works!')  # After you verified this method works, please delete it ;)
+
+    # After you verified this method works, please delete it ;)
+    print('Yay! It works!')
